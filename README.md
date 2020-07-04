@@ -1,4 +1,6 @@
-# tmux
+<p align=center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Tmux_logo.svg" />
+</p>
 
 Prefix for issuing the commands in the `tmux` (standard):
 
@@ -38,7 +40,7 @@ PREFIX followed by `%`
 # -------------
 
 PREFIX followed by `"`
-# results in: 
+# results in:
 # -------------
 # |           |
 # |-----------|
