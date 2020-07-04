@@ -75,6 +75,17 @@ PREFIX followed by `}`
 # |  X  |-----|  -> |  Y  |-----|
 # |     |  Z  |     |     |  Z  |
 # -------------     -------------
+
+# "Zooming-in" the focused pane
+PREFIX followed by `z`
+# results in (if you're focused in X pane for example):
+# -------------     -------------
+# |     |  Y  |     |           |
+# |  X  |-----|  -> |     X     |
+# |     |  Z  |     |           |
+# -------------     -------------
+#
+# To reset to "previous" state, run the command again
 ```
 
 ## Windows
