@@ -157,7 +157,7 @@ set -g mouse on
 
 ## Final product
 
-Why would you use something like this? Currently I am experimenting with [Alacritty](/https://github.com/alacritty/alacritty) as the replacement for **iTerm**. As the `Alacritty` for future terminal emulation. It is missing some of the features (missing is a strong word, from what I understood it was a design choice), the need to have some things in parallel was still there. Plus, with `tmux` you can easily transfer your "workflow" over multiple environments (with `git` this becomes a breeze). `iTerm` is only `OSX` and that is it.
+Why would you use something like this? Currently I am experimenting with [Alacritty](/https://github.com/alacritty/alacritty) for future terminal emulation. As a replacement for **iTerm** that I am using while on Mac. The `Alacritty` is missing some of the features (missing is a strong word, from what I understood it was a design choice), the need to have some things in parallel was still there. Plus, with `tmux` you can easily transfer your "workflow" over multiple environments (with `git` this becomes a breeze). `iTerm` is only `OSX` and that is it.
 
 The current setup looks something like the following (constantly improving and finding ways to make it cleaner):
 
