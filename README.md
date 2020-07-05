@@ -28,6 +28,12 @@ Stopping/killing a named session:
 tmux kill-session -t <name>
 ```
 
+Reloading the current session in case of change to the plugins:
+
+```bash
+PREFIX followed by `I`
+```
+
 ## Panes/splits
 
 ```bash
