@@ -47,6 +47,12 @@ tmux source ~/.tmux.conf
 ## Panes/splits
 
 ```bash
+# close pane
+PREFIX followed by `x`
+
+# swap pane
+PREFIX followed by `o`
+
 # horizontal splitting
 PREFIX followed by `%`
 # results in:
